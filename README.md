@@ -1,0 +1,1 @@
+Welcome to [Repository Name]! This repository hosts a collection of code snippets aimed at providing easy yet practical exercises for algorithm design. Whether you're a beginner looking to strengthen your coding skills or a seasoned programmer seeking quick challenges, you'll find these codes beneficial for honing your algorithmic problem-solving abilities.
